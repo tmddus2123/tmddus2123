@@ -14,7 +14,13 @@
     <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white"> 
   <br>
   <br>
+  <p><b>공부중</b></p>
+    <img src="https://img.shields.io/badge/c%23-00599C?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <br>
+  <br>
+  <br>
+
 
 
   
