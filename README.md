@@ -1,5 +1,5 @@
 #### Hi there 👋
-###  Lee SeungYeon 🍀
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=000000&vCenter=true&width=435&lines=%F0%9F%8D%80+Lee+SeungYeon+%F0%9F%8D%80" alt="Typing SVG" /></a>
 ---
 <!--
   https://simpleicons.org/?q=c : 아이콘
