@@ -29,8 +29,8 @@
   
   <p><b>블로그 & 메일</b></p> 
   <div>
-    <a href="https://velog.io/@tmddus2123">
-      <img src="https://img.shields.io/badge/VELOG-a?style=for-the-badge&logo=velog&color=white">
+    <a href="https://winkite-orz.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=FF5949">
     </a>
   </div>
   <div align="center">
